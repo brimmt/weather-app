@@ -1,0 +1,4 @@
+#Don't upload sensitive or unnecessary files
+
+.env
+__pycache__/
